@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://media.licdn.com/dms/image/v2/D4E16AQHt6RIE0eB3cw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724186628998?e=1735776000&v=beta&t=BAhcFjkA1PlnehVerahVyYyxpCVTMrVwRXbcCtcq2T4">
 </div>
 
 <!--Header Name-->
