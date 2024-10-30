@@ -407,7 +407,7 @@
 <img src="./gmail.png" width=50 height=50 alt="pabloinprogramacion@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/PablolzDev" target="_blank">
+<a href="https://github.com/PablolzDev?tab=overview&from=2024-10-01&to=2024-10-30" target="_blank">
 <img src="./github.png" width=50 height=50 alt="PablolzDev" style="margin-bottom: 5px;" />
 </a>
 
